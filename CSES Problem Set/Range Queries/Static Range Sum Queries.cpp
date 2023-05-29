@@ -1,4 +1,4 @@
-*
+/*
  Author: Omar Bahgat
  Approach: Use prefix sums
  */
