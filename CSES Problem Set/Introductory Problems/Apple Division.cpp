@@ -1,8 +1,11 @@
 /*
  Author: Omar Bahgat
+ 
  Approach: Iterate over all subsets using bitmasks. If the i'th bit is equal to one
            in a particular bitmask, we add it to weight_1, else, we add it to weight_2.
            Find the minimum between all the differences of weight_1 and weight_2.
+           
+ Time Complexity: O(2^n . n)
  */
 
 #include <bits/stdc++.h>
