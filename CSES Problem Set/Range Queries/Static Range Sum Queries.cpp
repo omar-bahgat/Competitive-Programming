@@ -1,6 +1,9 @@
 /*
  Author: Omar Bahgat
+ 
  Approach: Use prefix sums
+
+ Time Complexity: O(n + q)
  */
  
 #include <bits/stdc++.h>
