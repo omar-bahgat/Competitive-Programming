@@ -1,6 +1,9 @@
 /*
  Author: Omar Bahgat
+ 
  Approach: Make an element just as large as the previous element to minimize the moves.
+
+ Time Complexity: O(n)
  */
 
 #include <bits/stdc++.h>
