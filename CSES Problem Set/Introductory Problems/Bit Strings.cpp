@@ -1,8 +1,11 @@
 /*
  Author: Omar Bahgat
+ 
  Approach: Every new bit corresponds to double the amount of possibilities.
            Therefore, we multiply by 2 after every new bit and we %
            in between multiplications to prevent overflow.
+
+ Time Complexity: O(n)
  */
 
 #include <bits/stdc++.h>
