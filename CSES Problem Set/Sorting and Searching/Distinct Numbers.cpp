@@ -1,6 +1,9 @@
 /*
  Author: Omar Bahgat
+ 
  Approach: Insert all values into a set
+
+ Time Complexity: O(n . logn)
  */
 
 #include<bits/stdc++.h>
